@@ -1,22 +1,22 @@
 {
   "spec": 1,
   "name": "roboto",
-  "previewText": "roboto is googles signature sans serif ui typeface clean neutral and pixel friendly lol .",
+  "previewText": "roboto from googlefonts/roboto-2 hinted ttf raw files lol .",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-Black.ttf",
-    "ggsans-ExtraBold": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-Black.ttf",
-    "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-BlackItalic.ttf",
-    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-Bold.ttf",
-    "ggsans-BoldItalic": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-BoldItalic.ttf",
-    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-Medium.ttf",
-    "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-MediumItalic.ttf",
-    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-Medium.ttf",
-    "ggsans-MediumItalic": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-MediumItalic.ttf",
-    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-Regular.ttf",
-    "ggsans-NormalItalic": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-Italic.ttf",
-    "NotoSans-Normal": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-Regular.ttf",
-    "NotoSans-NormalItalic": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-Italic.ttf",
-    "SourceCodePro-Semibold": "https://cdn.jsdelivr.net/gh/google/fonts@main/apache/roboto/Roboto-Medium.ttf"
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-Black.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-Black.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-BlackItalic.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-Bold.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-BoldItalic.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-Medium.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-MediumItalic.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-Medium.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-MediumItalic.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-Regular.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-Italic.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-Regular.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-Italic.ttf",
+    "SourceCodePro-Semibold": "https://raw.githubusercontent.com/googlefonts/roboto-2/main/src/hinted/Roboto-Medium.ttf"
   }
 }
 
