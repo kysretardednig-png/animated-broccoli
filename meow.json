@@ -1,21 +1,21 @@
 {
   "spec": 1,
   "name": "roboto-flex",
-  "previewText": "roboto flex variable‑style font from a direct ttf host lol .",
+  "previewText": "ro",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "ggsans-ExtraBold": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "ggsans-Bold": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "ggsans-BoldItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "ggsans-Semibold": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "ggsans-Medium": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "ggsans-MediumItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "ggsans-Normal": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "ggsans-NormalItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "NotoSans-Normal": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "NotoSans-NormalItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
-    "SourceCodePro-Semibold": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2"
+    "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "ggsans-ExtraBold": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "ggsans-BoldItalic": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "ggsans-MediumItalic": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "ggsans-NormalItalic": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "NotoSans-Normal": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "NotoSans-NormalItalic": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf",
+    "SourceCodePro-Semibold": "https://cdn.jsdelivr.net/gh/googlefonts/roboto-flex@main/fonts/RobotoFlex[slnt,wdth,wght,opsz,GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC].ttf"
   }
 }
