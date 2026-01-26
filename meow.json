@@ -3,20 +3,19 @@
   "name": "roboto-flex",
   "previewText": "roboto flex variable‑style font from a direct ttf host lol .",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "ggsans-ExtraBold": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "ggsans-ExtraBoldItalic": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "ggsans-Bold": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "ggsans-BoldItalic": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "ggsans-Semibold": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "ggsans-SemiboldItalic": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "ggsans-Medium": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "ggsans-MediumItalic": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "ggsans-Normal": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "ggsans-NormalItalic": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "NotoSans-Normal": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "NotoSans-NormalItalic": "https://static.fontesk.com/roboto-flex-regular.ttf",
-    "SourceCodePro-Semibold": "https://static.fontesk.com/roboto-flex-regular.ttf"
+    "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "ggsans-ExtraBold": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "ggsans-Bold": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "ggsans-BoldItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "ggsans-Semibold": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "ggsans-Medium": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "ggsans-MediumItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "ggsans-Normal": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "ggsans-NormalItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "NotoSans-Normal": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "NotoSans-NormalItalic": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2",
+    "SourceCodePro-Semibold": "https://cdn.jsdelivr.net/npm/@fontsource-variable/roboto-flex@latest/files/roboto-flex-latin-wght-normal.woff2"
   }
 }
-
